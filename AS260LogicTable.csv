@@ -1,0 +1,150 @@
+"Logic Identifier","Logic Address"
+"System Pressure Low",660
+"Weld Control A Cooling",660.01
+"Weld Control B Cooling",660.02
+"Weld Control C Cooling",660.03
+"Weld Gun 1 Cooling",660.04
+"Weld Gun 2 Cooling",660.05
+"Weld Gun 3 Cooling",660.06
+"Weld Control A Fault State",660.07
+"Weld Control B Fault State",660.08
+"Weld Control C Fault State",660.09
+"Vision System in Fault State",660.1
+"Dial Table Indexer in Fault Condition",660.11
+"Linear Actuators Not in Start Position",660.12
+"N/A 1",660.13
+"N/A 2",660.14
+"N/A 3",660.15
+"Pick & Place 1 Retract",661
+"Pick & Place 2 Retract",661.01
+"Pick & Place 1 Extend",661.02
+"Pick & Place 2 Extend",661.03
+"Pick & Place 1 Middle Position",661.04
+"Pick & Place 2 Middle Position",661.05
+"Indexer 1 Retract",661.06
+"Indexer 1 Extend",661.07
+"N/A 4",661.08
+"Pick & Place 1 PSW",661.09
+"Pick & Place 2 PSW",661.1
+"Part Present Laser",661.11
+"N/A 5",661.12
+"N/A 6",661.13
+"N/A 7",661.14
+"N/A 8",661.15
+"Pick & Place 3 Retract",662
+"Pick & Place 4 Retract",662.01
+"Pick & Place 3 Extend",662.02
+"Pick & Place 4 Extend",662.03
+"Pick & Place 3 Middle Position",662.04
+"Pick & Place 4 Middle Position",662.05
+"Indexer 2 Retract",662.06
+"Indexer 2 Extend",662.07
+"Pick & Place 3 PSW",662.08
+"Pick & Place 4 PSW",662.09
+"N/A 9",662.1
+"N/A 10",662.11
+"N/A 11",662.12
+"N/A 12",662.13
+"N/A 13",662.14
+"N/A 14",662.15
+"Weld Gun 1 Retract",663
+"Part Clamp 1 Retract",663.01
+"Part Clamp 1 Extend",663.02
+"Weld Gun 1 PSW",663.03
+"N/A 15",663.04
+"Weld Control A Weld Complete Signal Missing",663.05
+"Station 3 Touch Probe",663.06
+"Nest Preset Autocycle Not Clear",663.07
+"Nest Preset Autocycle Indexing Not in Correct Sequence",663.08
+"N/A 16",663.09
+"N/A 17",663.1
+"N/A 18",663.11
+"N/A 19",663.12
+"N/A 20",663.13
+"N/A 21",663.14
+"N/A 22",663.15
+"Weld Gun 2 Retract",664
+"Part Clamp 2 Retract",664.01
+"Part Clamp 2 Extend",664.02
+"Weld Gun 2 PSW",664.03
+"N/A 23",664.04
+"Weld Control B Weld Complete Signal Missing",664.05
+"N/A 24",664.06
+"N/A 25",664.07
+"N/A 26",664.08
+"N/A 27",664.09
+"N/A 28",664.1
+"N/A 29",664.11
+"N/A 30",664.12
+"N/A 31",664.13
+"N/A 32",664.14
+"N/A 33",664.15
+"Weld Gun 3 Retract",665
+"Part Clamp 3 Retract",665.01
+"Part Clamp 3 Extend ",665.02
+"Weld Gun 3 PSW",665.03
+"N/A 34",665.04
+"Weld Control C Weld Complete Signal Missing",665.05
+"N/A 35",665.06
+"N/A 36",665.07
+"N/A 37",665.08
+"N/A 38",665.09
+"N/A 39",665.1
+"N/A 40",665.11
+"N/A 41",665.12
+"N/A 42",665.13
+"N/A 43",665.14
+"N/A 44",665.15
+"Pick & Place 5 Retract",666
+"Pick & Place 6 Retract",666.01
+"Pick & Place 5 Extend",666.02
+"Pick & Place 6 Extend",666.03
+"Indexer 3 Retract",666.04
+"Indexer 3 Extend",666.05
+"Pick & Place 5 PSW",666.06
+"Pick & Place 6 PSW",666.07
+"N/A 45",666.08
+"N/A 46",666.09
+"N/A 47",666.1
+"N/A 48",666.11
+"N/A 49",666.12
+"N/A 50",666.13
+"N/A 51",666.14
+"N/A 52",666.15
+"Part Stack Station 1 Not Locked",667
+"Part Stack Station 2 Not Locked",667.01
+"Part Stack Station 1 Not in Position",667.02
+"Part Stack Station 2 Not in Position",667.03
+"Table Driver Operation Signal No Good",667.04
+"Table Position Sensor ",667.05
+"N/A 53",667.06
+"N/A 54",667.07
+"N/A 55",667.08
+"N/A 56",667.09
+"N/A 57",667.1
+"N/A 58",667.11
+"N/A 59",667.12
+"N/A 60",667.13
+"N/A 61",667.14
+"N/A 62",667.15
+"Weld Gun 1 Tip Dress Retract",668
+"Weld Gun 2 Tip Dress Retract",668.01
+"Weld Gun 3 Tip Dress Retract",668.02
+"Weld Gun 1 Tip Dress Actuator",668.03
+"Weld Gun 2 Tip Dress Actuator",668.04
+"Weld Gun 3 Tip Dress Actuator",668.05
+"Tip Dresser 1 Contactor",668.06
+"Tip Dresser 2 Contactor",668.07
+"Tip Dresser 3 Contactor",668.08
+"N/A 63",668.09
+"N/A 64",668.1
+"N/A 65",668.11
+"N/A 66",668.12
+"N/A 67",668.13
+"N/A 68",668.14
+"N/A 69",668.15
+"Station 6 Blank Separator",700.14
+"Auto Mode",16
+"Manual Mode",16.01
+"Idle Mode",16.02
+"Auto Sequence IP",16.03
